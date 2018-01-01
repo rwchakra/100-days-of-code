@@ -6,7 +6,7 @@
 
 **Thoughts:** While I could easily grasp the concept, it was a lot of work solving the problem (a "very easy" one) and eventually I took a look at the editorial. Need to improve on both problem solving and efficiency. This will come only with lots of practice. 
 
-**Link to work:** 
+**Link to work:** https://github.com/rwiddhic96/DSandAlgos/blob/master/ArrayUpdate
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
