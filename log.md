@@ -8,14 +8,12 @@
 
 **Link to work:** https://github.com/rwiddhic96/DSandAlgos/blob/master/ArrayUpdate
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 2: January 2nd, 2018 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Strings and more arrays
+**Thoughts**: Better performance. Still haven't attempted medium or hard questions, but completely solved 3 easy ones, and partially solved one medium problem (Could not find the optimal solution)
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Link(s) to work**: 
 
 
 ### Day 1: June 27, Monday
