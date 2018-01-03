@@ -16,12 +16,12 @@
 **Link(s) to work**: 
 
 
-### Day 1: June 27, Monday
+### Day 3: January 3rd, 2018
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: Solved two more problems on Arrays - 1 from Adobe (and Google) and another from Google.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** Could satisfactorily solve the Adobe question, and faced no time issues. Tackled the Google problem for well over an hour before realising I'd missed a critical idea in the solution [instead of directly finding the max value, I was concentrating on returning the array subsets]. Took help from the editorial. Definitely growing with confidence, but there's such a long way to go.
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. [Wave Array (Adobe, Google)](https://github.com/rwiddhic96/DSandAlgos/blob/master/Wave_Array)
+2. [Max Non negative SubArray (Google)](https://github.com/rwiddhic96/DSandAlgos/blob/master/Max_SubArray)
