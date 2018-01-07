@@ -25,3 +25,12 @@
 **Link(s) to work**
 1. [Wave Array (Adobe, Google)](https://github.com/rwiddhic96/DSandAlgos/blob/master/Wave_Array)
 2. [Max Non negative SubArray (Google)](https://github.com/rwiddhic96/DSandAlgos/blob/master/Max_SubArray)
+
+### Day 4,5,6,7: January 4th-7th, 2018
+
+**Progress**: Solved various difficulties of problems from both HackerEarth and InterviewBit.
+**Thoughts** Nothing much to report other than the fact that I'm slowly realising the subtleties of programming - Missed a ton of edge cases in some of the problems, and definitely had quite a few "WOAHH HOW DID I MISS THAT" moments over these last few days. Unfortunately, the editorials in these places aren't that good. Will look at other sources for same problems and their editorials.
+
+**Link(s) to work**
+1. [Wave Array (Adobe, Google)](https://github.com/rwiddhic96/DSandAlgos/blob/master/Wave_Array)
+2. [Max Non negative SubArray (Google)](https://github.com/rwiddhic96/DSandAlgos/blob/master/Max_SubArray)
