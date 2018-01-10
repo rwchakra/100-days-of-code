@@ -32,5 +32,23 @@
 **Thoughts** Nothing much to report other than the fact that I'm slowly realising the subtleties of programming - Missed a ton of edge cases in some of the problems, and definitely had quite a few "WOAHH HOW DID I MISS THAT" moments over these last few days. Unfortunately, the editorials in these places aren't that good. Will look at other sources for same problems and their editorials.
 
 **Link(s) to work**
-1. [Wave Array (Adobe, Google)](https://github.com/rwiddhic96/DSandAlgos/blob/master/Wave_Array)
-2. [Max Non negative SubArray (Google)](https://github.com/rwiddhic96/DSandAlgos/blob/master/Max_SubArray)
+1. https://github.com/rwiddhic96/DSandAlgos/blob/master/First_Missing_Integer
+2. https://github.com/rwiddhic96/DSandAlgos/blob/master/FizzBuzz
+3.https://github.com/rwiddhic96/DSandAlgos/blob/master/GCD
+4.https://github.com/rwiddhic96/DSandAlgos/blob/master/Merge_Overlap
+5.https://github.com/rwiddhic96/DSandAlgos/blob/master/Suffix_sort
+6. https://github.com/rwiddhic96/DSandAlgos/blob/master/Modulo_sorting
+7. https://github.com/rwiddhic96/DSandAlgos/blob/master/Nice_String
+8. https://github.com/rwiddhic96/DSandAlgos/blob/master/Height_Sort
+
+### Day 8,9: January 8th-9th, 2018
+
+**Progress**: Completed Arrays and Math sections on InterviewBit.
+**Thoughts** On to binary search, linked lists, stacks and queues. Aiming to finish these in the next 2 weeks!
+
+**Link(s) to work**
+1. https://github.com/rwiddhic96/DSandAlgos/blob/master/Largest_Number
+2. https://github.com/rwiddhic96/DSandAlgos/blob/master/N_K
+3. https://github.com/rwiddhic96/DSandAlgos/blob/master/Rearrange_array
+4. https://github.com/rwiddhic96/DSandAlgos/blob/master/Palindrome_Int
+5.https://github.com/rwiddhic96/DSandAlgos/blob/master/Excel_Column
