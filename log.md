@@ -44,7 +44,7 @@
 ### Day 8,9: January 8th-9th, 2018
 
 **Progress**: Completed Arrays and Math sections on InterviewBit.
-**Thoughts** On to binary search, linked lists, stacks and queues. Aiming to finish these in the next 2 weeks!
+**Thoughts**: On to binary search, linked lists, stacks and queues. Aiming to finish these in the next 2 weeks!
 
 **Link(s) to work**
 1. https://github.com/rwiddhic96/DSandAlgos/blob/master/Largest_Number
@@ -52,3 +52,12 @@
 3. https://github.com/rwiddhic96/DSandAlgos/blob/master/Rearrange_array
 4. https://github.com/rwiddhic96/DSandAlgos/blob/master/Palindrome_Int
 5.https://github.com/rwiddhic96/DSandAlgos/blob/master/Excel_Column
+
+### January 10th-30th, 2018
+
+**Progress** : Completed popular sorting algorithms, read about graphs, implemented 3 graph algorithms, and completed the Algorithms track on Khan Academy
+
+**Thoughts** : Looking to complete graphs by this week. Having fun!
+**Link to work**
+1) https://github.com/rwiddhic96/DSandAlgos/blob/master/Graphs
+2) https://github.com/rwiddhic96/DSandAlgos/blob/master/Sorting
