@@ -29,6 +29,7 @@
 ### Day 4,5,6,7: January 4th-7th, 2018
 
 **Progress**: Solved various difficulties of problems from both HackerEarth and InterviewBit.
+
 **Thoughts** Nothing much to report other than the fact that I'm slowly realising the subtleties of programming - Missed a ton of edge cases in some of the problems, and definitely had quite a few "WOAHH HOW DID I MISS THAT" moments over these last few days. Unfortunately, the editorials in these places aren't that good. Will look at other sources for same problems and their editorials.
 
 **Link(s) to work**
@@ -44,6 +45,7 @@
 ### Day 8,9: January 8th-9th, 2018
 
 **Progress**: Completed Arrays and Math sections on InterviewBit.
+
 **Thoughts**: On to binary search, linked lists, stacks and queues. Aiming to finish these in the next 2 weeks!
 
 **Link(s) to work**
@@ -58,6 +60,7 @@
 **Progress** : Completed popular sorting algorithms, read about graphs, implemented 3 graph algorithms, and completed the Algorithms track on Khan Academy
 
 **Thoughts** : Looking to complete graphs by this week. Having fun!
-**Link to work**
+
+**Links to work**
 1) https://github.com/rwiddhic96/DSandAlgos/blob/master/Graphs
 2) https://github.com/rwiddhic96/DSandAlgos/blob/master/Sorting
